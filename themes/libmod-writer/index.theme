@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=libmod-writer
+Comment=default GTK theme for linux
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=libmod-writer
+MetacityTheme=libmod-writer
+IconTheme=libmod-writer
+CursorTheme=libmod-writer
+ButtonLayout=menu:minimize,maximize,close
